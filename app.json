@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "userInterfaceStyle": "automatic",
+    "name": "GroupStatus",
+    "slug": "GroupStatus",
+    "version": "6.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/my-icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "usesAppleSignIn": true,
+      "requireFullScreen": true,
+      "userInterfaceStyle": "light",
+      "buildNumber": "6.0.0"
+    },
+    "android": {
+      "package": "com.flohop.groupstatus",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 6,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/my-adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "icon": "./assets/images/my-icon.png",
+      "userInterfaceStyle": "dark"
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "scheme": "groupstatus",
+    "description": ""
+  }
+}

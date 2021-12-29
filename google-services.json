@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "12345",
+    "firebase_url": "my-firebase-url",
+    "project_id": "my-id-1234",
+    "storage_bucket": "my-storage-id-12345"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12345",
+        "android_client_info": {
+          "package_name": "com.flohop.groupstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "my_id",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "my_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "client_id",
+              "client_type": 3
+            },
+            {
+              "client_id": "client_id",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
