@@ -9,7 +9,7 @@
 
 ![group-status-logo](https://play-lh.googleusercontent.com/sc_StHh1tkpujht7CXyxDc7v1xtgMBv5G1UDUu_lumJ0atl6MXQMFegp5Gr2Am7xqw=s180-rw)
 
-This is the public repo for the App "Color Harmony". To learn more about the app, visit the Google Play Store entry for it: [Group Status](https://play.google.com/store/apps/details?id=com.flohop.groupstatus)
+This is the public repo for the App "Group Status". To learn more about the app, visit the Google Play Store entry for it: [Group Status](https://play.google.com/store/apps/details?id=com.flohop.groupstatus)
 The app is fully compatible with iOS, but since I don't have an Apple Dev account, it's only available for Google Play Store.
 
 ![image-one](https://play-lh.googleusercontent.com/5wREG2LGGrQ3ZbVul1Prf5n96L-LxVnk-hNi3vpzUdGrek572ddbHxZWL3nvp4JSyUA=w1920-h979-rw)
